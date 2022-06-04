@@ -28,14 +28,14 @@ Learn foundational machine learning algorithms, starting with data cleaning and 
 
 ## Repositoriy Info
 In this repositoriy, I have collected all my projects that I worked on during machine learning course which divides into 
-1) **Project 1: Find Donors for CharityML with Kaggle [Supervised Machine Learning]**
+1) **Find Donors for CharityML with Kaggle [Supervised Machine Learning]**
 
 In this project, I applied supervised learning techniques on data collected for the US census to help CharityML (a fictitious charity organization) identify groups of people that are most likely to donate to their cause. Finding potential donors for a charity involves analyzing data about the US population and grouping that population by similar interests/traits that can help identify likely donors.
 
-2) **Project 2: Create an Image Classifier [Deep Learning]**
+2) **Create an Image Classifier [Deep Learning]**
 
 Learn how to build and train a neural network using the deep learning framework, PyTorch. define and train a neural network that learns to classify images; going from image data exploration to network training and evaluation.
 
-3) **Project 3: Creating Customer Segments with Arvato [Unsupervised Machine Learning]**
+3) **Creating Customer Segments with Arvato [Unsupervised Machine Learning]**
 
 In this project, study a real dataset of customers for a company, and apply several unsupervised learning techniques in order to segment customers into similar groups and extract information that may be used for marketing or product improvement.
