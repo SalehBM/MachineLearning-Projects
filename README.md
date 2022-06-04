@@ -27,7 +27,7 @@ Learn foundational machine learning algorithms, starting with data cleaning and 
 - Random Projection and ICA
 
 ## Repositoriy Info
-In this repositoriy, I have collect all my projects that I worked on during machine learning course which divides to 
+In this repositoriy, I have collected all my projects that I worked on during machine learning course which divides into 
 1) **Project 1: Find Donors for CharityML with Kaggle [Supervised Machine Learning]**
 
 In this project, I applied supervised learning techniques on data collected for the US census to help CharityML (a fictitious charity organization) identify groups of people that are most likely to donate to their cause. Finding potential donors for a charity involves analyzing data about the US population and grouping that population by similar interests/traits that can help identify likely donors.
